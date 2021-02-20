@@ -8,6 +8,7 @@ void main()
 	d=a-b;
 	printf("%d",c);
 	printf("%d\n",d);
-	printf("Addition and Subtraction");
+ 	printf("Addition and Subtraction");
+	printf("this is day 2");
 	getch();
 }
